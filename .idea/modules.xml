@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaA.iml" filepath="$PROJECT_DIR$/JavaA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture10/lecture10.iml" filepath="$PROJECT_DIR$/lecture10/lecture10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture10 lab/lecture10 lab.iml" filepath="$PROJECT_DIR$/lecture10 lab/lecture10 lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture11/lecture11.iml" filepath="$PROJECT_DIR$/lecture11/lecture11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture14/lecture14.iml" filepath="$PROJECT_DIR$/lecture14/lecture14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture2/lecture2.iml" filepath="$PROJECT_DIR$/lecture2/lecture2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture3/lecture3.iml" filepath="$PROJECT_DIR$/lecture3/lecture3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture4/lecture4.iml" filepath="$PROJECT_DIR$/lecture4/lecture4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture5/lecture5.iml" filepath="$PROJECT_DIR$/lecture5/lecture5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture5 lab/lecture5 lab.iml" filepath="$PROJECT_DIR$/lecture5 lab/lecture5 lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture6/lecture6.iml" filepath="$PROJECT_DIR$/lecture6/lecture6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture6 lab/lecture6 lab.iml" filepath="$PROJECT_DIR$/lecture6 lab/lecture6 lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture7/lecture7.iml" filepath="$PROJECT_DIR$/lecture7/lecture7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture7 lab/lecture7 lab.iml" filepath="$PROJECT_DIR$/lecture7 lab/lecture7 lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture8/lecture8.iml" filepath="$PROJECT_DIR$/lecture8/lecture8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture8 lab/lecture8 lab.iml" filepath="$PROJECT_DIR$/lecture8 lab/lecture8 lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture9/lecture9.iml" filepath="$PROJECT_DIR$/lecture9/lecture9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture9 lab/lecture9 lab.iml" filepath="$PROJECT_DIR$/lecture9 lab/lecture9 lab.iml" />
+    </modules>
+  </component>
+</project>
