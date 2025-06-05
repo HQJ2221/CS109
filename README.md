@@ -1,29 +1,13 @@
-# CS109 计算机程序设计基础（Java A）
+# CS109 Basic Programming of Computer（Java A）
 
-> 本人上课时间：2022年下半学期（2023.2-2.23.6）
+> Semester taken: 2023 Spring（2023.2-2023.6）
 > 
-> 本人任课老师：余剑峤
+> Lecturer: Jianqiao Yu
 
-由于后来有过当JavaA SA的经历，所以对这门课比较了解：
-- 课程内一共有五次作业
-  - 前三次基本是过程式编程，主要涉及数组、选择语句、循环语句、方法等基础语法
-  - 后两次作业以面向对象为主，其中第四次相对较难，涉及类与对象的知识；第五次作业由于跟project时间重合，所以不会特别难，但是涉及java编程中比较重要的部分，即**类的继承和多态**，这一点在project中也是刚需，需要多花时间理解老师课上讲的内容，并在课下多做相关练习
+- Using Java as learning programming language
+- Totally 5 assignments, 1 final project:
+  - First 3 about basic Java programming tasks (e.g. for loop, simple algorithm)
+  - Last 2 about object-oriented programming (e.g. extension of class, abstraction of class)
+  - project: design a little game using `Java`
 
-- 课程内共有一次project，历年来基本都是设计一款简易的小游戏（多数与棋类有关）
-  - project是涉及简单小游戏，一般两个人组队完成，且项目的基本结构已经写好，学生主要负责的部分是写出各种方法以实现对应功能，按自己需要增加不同的类。项目基本结构如下：
-    - ```model```: model是项目的基础模型，是项目的后端设计。主要涉及游戏的底层逻辑和计算，考察学生过程式编程以及面向对象编程的能力
-    - ```view```: view是项目的外观设计，是项目的前端设计。主要涉及游戏的界面与后台的交互，考察学生面向对象编程以及GUI的相关知识
-    - ```controller```: controller是项目的控制器，主要对用户的操作做出响应（即通过用户的对应操作更改view和model中的变量以实现界面的变换和后台计算），这部分老师在demo会写得较多，可根据已写好的内容拓展
-    - ```listener```: 监听器，一般在demo已经写好，是一个抽象类接口，在controller中实现，用于监听用户的操作（基本是鼠标点击操作）
-    - ```main```: 不同于作业，main基本是整个项目最不重要的部分，仅仅用于调用controller启动游戏界面
-  - project时间一般是12-15周，其中涉及到的GUI相关知识理论课14周才讲到，所以如果不打算赶ddl的同学**一定**得提前学GUI！！！（来自本人的血泪教训）建议自学能力较强的同学直接去学javaFX，学校教的GUI是IDEA的lib中自带的Swing界面，但是从结构与操作性来看，javaFX设计出来的UI会比Swing好很多
-
-
-
-本人对“如何学好JavaA”这个问题并无过多建议，对于计算机相关的课程来说，JavaA无疑是最简单的之一。对于想进入计算机系（无编程基础）的同学来说，这门课的作用只是让你熟悉一种编程的语言和一些基础逻辑，方便某些专业课的学习。
-好好上课，好好写作业，这门课基本上不会差到哪里去。
-- JavaA在大一上修好还是大一下修好？
-  - 并无好坏之分。对于大一上修的同学（以下只针对要进计系的同学），大一下学期可以花时间学学算法，刷刷算法题，或者自学一门简单的语言（如Python）
-  - 对于大一下修的同学（我就是大一下修的），大一上其实没必要花时间“自学Java”，还不如下学期好好听课。大一上最重要的就是把线代学好！！（以下只针对要进计系的同学）也可以考虑大一上选修计算机导论或数理逻辑导论
- 
-总之，个人认为这门课比线代简单（除了理论课期末考试，其他的分都有较大的机会拿满）。
+> All in all, basic course for computer-majored students.
